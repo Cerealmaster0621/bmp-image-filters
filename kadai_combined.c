@@ -1,8 +1,4 @@
 /*
-    ディジタル信号処理 課題1
-    1, 2, 3, 4, 5 統合プログラム
-    21D8101001H YoungJun Kang
-
     .BMP file consists of 14 bytes of headers and the rests are actual pixel datas.
     
 */
